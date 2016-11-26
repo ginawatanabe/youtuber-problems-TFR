@@ -1,6 +1,6 @@
 ### The Problem 
 
-A famous YouTuber, Keem, has a problem with his video streaming. He asks his friend, Scarce, for help. They both rack their brains, but are unsure of what to do. Keem wants to design a web app to stream his videos without having to use YouTube and give them more ad traffic. 
+A famous YouTuber, KillerKeemStar, has a problem with his video streaming. He asks his friend, Scarce, for help. They both rack their brains, but are unsure of what to do. Keem wants to design a web app to stream his videos without having to use YouTube and give them more ad traffic. 
 
 ### Your Mission 
 
